@@ -22,10 +22,7 @@ Você só avança quando concluir o desafio atual.
 
 ---
 
-## 🗺 Roadmap de Aprendizado
-
-Veja sua jornada completa aqui:
-# 🗺 Roadmap da Formação Backend JS
+## 🗺 Roadmap da Formação Backend JS
 
 ## 🟢 Nível 1 — Fundamentos
 
