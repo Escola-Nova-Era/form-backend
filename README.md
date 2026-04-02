@@ -21,6 +21,16 @@ Ao longo da formação, você vai desenvolver as competências para:
 
 ---
 
+## 🎯 Como funciona
+
+A formação é dividida em 3 níveis:
+
+* 🟢 Nível 1 - Fundamentos
+* 🟡 Nível 2 - Intermediário
+* 🔴 Nível 3 - Avançado
+
+Cada nível possui desafios práticos que simulam problemas reais do mercado.
+
 ## 🧰 Tecnologias da Formação (usadas nos desafios)
 
 🟢 **Banco de dados SQL (MySQL)**
@@ -108,16 +118,6 @@ Ao longo da formação, você vai desenvolver as competências para:
 
 ---
 
-## 🎯 Como funciona
-
-A formação é dividida em 3 níveis:
-
-* 🟢 Nível 1 - Fundamentos
-* 🟡 Nível 2 - Intermediário
-* 🔴 Nível 3 - Avançado
-
-Cada nível possui desafios práticos que simulam problemas reais do mercado.
-
 👉 **Regra principal:**
 Você só avança quando concluir o desafio atual.
 
@@ -169,53 +169,6 @@ Ao concluir a formação, o aluno terá:
 * Experiência com testes automatizados usando Jest e mocks
 * Experiência com arquitetura modular e organização profissional de código
 * Projeto final completo para portfólio e mercado
-
----
-
-## 📦 Estrutura dos Desafios
-
-Cada desafio possui:
-
-* 📘 README (explicação do problema)
-* 🎯 Objetivo claro
-* 📚 Aulas recomendadas
-* ✅ Checklist de entrega
-* 💡 Extras (para ir além)
-
----
-
-## 🚀 Como começar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-repo/backend-js-formation.git
-```
-
-2. Comece pelo primeiro desafio:
-
-```bash
-cd nivel-1-fundamentos/desafio-01-crud-mysql
-```
-
-3. Leia o README do desafio e siga as instruções
-
----
-
-## 🧠 Regra de Ouro
-
-❌ Não tente assistir tudo antes
-✅ Aprenda sob demanda para resolver problemas
-
----
-
-## 📈 O que você vai construir
-
-* APIs REST completas
-* Integração com banco de dados
-* Aplicações containerizadas
-* Sistemas com autenticação
-* Projeto final profissional
 
 ---
 
