@@ -174,8 +174,6 @@ Ao concluir a formação, o aluno terá:
 
 ## 👨‍💻 Pronto?
 
-Comece agora pelo primeiro desafio:
-
-👉 [Desafio 01 - CRUD com MySQL](./nivel-1-fundamentos/desafio-01-crud-mysql)
+A jornada para se tornar Desenvolvedor Backend Js começa aqui.
 
 Boa jornada 🚀
