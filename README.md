@@ -21,15 +21,16 @@ Ao longo da formação, você vai desenvolver as competências para:
 
 ---
 
-## 🎯 Como funciona
+## 🧱 Estrutura da Formação
 
-A formação é dividida em 3 níveis:
+A formação é dividida em **3 níveis**, organizados em **15 desafios progressivos**.  
+Cada nível representa uma evolução técnica real na construção de sistemas backend.
 
-* 🟢 Nível 1 - Fundamentos
-* 🟡 Nível 2 - Intermediário
-* 🔴 Nível 3 - Avançado
+---
 
-Cada nível possui desafios práticos que simulam problemas reais do mercado.
+🟢 **Nível 1 — Fundamentos Backend & Dados**  
+🟡 **Nível 2 — APIs & Integração de Sistemas**  
+🔴 **Nível 3 — Arquitetura & Backend Profissional**
 
 ## 🧰 Tecnologias da Formação (usadas nos desafios)
 
